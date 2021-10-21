@@ -1,0 +1,7 @@
+C:\Users\TR\source\repos\CSharpCourse\CSharp8.1_Demo\obj\Debug\CSharp8.1_Demo.csproj.AssemblyReference.cache
+C:\Users\TR\source\repos\CSharpCourse\CSharp8.1_Demo\obj\Debug\CSharp8.1_Demo.csproj.CoreCompileInputs.cache
+C:\Users\TR\source\repos\CSharpCourse\CSharp8.1_Demo\bin\Debug\CSharp8.1_Demo.exe.config
+C:\Users\TR\source\repos\CSharpCourse\CSharp8.1_Demo\bin\Debug\CSharp8.1_Demo.exe
+C:\Users\TR\source\repos\CSharpCourse\CSharp8.1_Demo\bin\Debug\CSharp8.1_Demo.pdb
+C:\Users\TR\source\repos\CSharpCourse\CSharp8.1_Demo\obj\Debug\CSharp8.1_Demo.exe
+C:\Users\TR\source\repos\CSharpCourse\CSharp8.1_Demo\obj\Debug\CSharp8.1_Demo.pdb

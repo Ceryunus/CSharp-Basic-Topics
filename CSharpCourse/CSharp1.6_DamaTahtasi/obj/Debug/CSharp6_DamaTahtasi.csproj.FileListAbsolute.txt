@@ -1,0 +1,10 @@
+C:\Users\TR\source\repos\CSharpCourse\CSharp6_DamaTahtasi\bin\Debug\CSharp6_DamaTahtasi.exe.config
+C:\Users\TR\source\repos\CSharpCourse\CSharp6_DamaTahtasi\bin\Debug\CSharp6_DamaTahtasi.exe
+C:\Users\TR\source\repos\CSharpCourse\CSharp6_DamaTahtasi\bin\Debug\CSharp6_DamaTahtasi.pdb
+C:\Users\TR\source\repos\CSharpCourse\CSharp6_DamaTahtasi\obj\Debug\CSharp6_DamaTahtasi.csproj.AssemblyReference.cache
+C:\Users\TR\source\repos\CSharpCourse\CSharp6_DamaTahtasi\obj\Debug\CSharp6_DamaTahtasi.Form1.resources
+C:\Users\TR\source\repos\CSharpCourse\CSharp6_DamaTahtasi\obj\Debug\CSharp6_DamaTahtasi.Properties.Resources.resources
+C:\Users\TR\source\repos\CSharpCourse\CSharp6_DamaTahtasi\obj\Debug\CSharp6_DamaTahtasi.csproj.GenerateResource.cache
+C:\Users\TR\source\repos\CSharpCourse\CSharp6_DamaTahtasi\obj\Debug\CSharp6_DamaTahtasi.csproj.CoreCompileInputs.cache
+C:\Users\TR\source\repos\CSharpCourse\CSharp6_DamaTahtasi\obj\Debug\CSharp6_DamaTahtasi.exe
+C:\Users\TR\source\repos\CSharpCourse\CSharp6_DamaTahtasi\obj\Debug\CSharp6_DamaTahtasi.pdb

@@ -1,0 +1,7 @@
+C:\Users\TR\source\repos\CSharpCourse\CSharp2.5_Attribute\bin\Debug\CSharp2.5_Attribute.exe.config
+C:\Users\TR\source\repos\CSharpCourse\CSharp2.5_Attribute\bin\Debug\CSharp2.5_Attribute.exe
+C:\Users\TR\source\repos\CSharpCourse\CSharp2.5_Attribute\bin\Debug\CSharp2.5_Attribute.pdb
+C:\Users\TR\source\repos\CSharpCourse\CSharp2.5_Attribute\obj\Debug\CSharp2.5_Attribute.csproj.AssemblyReference.cache
+C:\Users\TR\source\repos\CSharpCourse\CSharp2.5_Attribute\obj\Debug\CSharp2.5_Attribute.csproj.CoreCompileInputs.cache
+C:\Users\TR\source\repos\CSharpCourse\CSharp2.5_Attribute\obj\Debug\CSharp2.5_Attribute.exe
+C:\Users\TR\source\repos\CSharpCourse\CSharp2.5_Attribute\obj\Debug\CSharp2.5_Attribute.pdb

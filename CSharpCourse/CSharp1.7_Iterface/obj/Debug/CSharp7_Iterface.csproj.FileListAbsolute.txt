@@ -1,0 +1,7 @@
+C:\Users\TR\source\repos\CSharpCourse\CSharp7_Iterface\obj\Debug\CSharp7_Iterface.csproj.CoreCompileInputs.cache
+C:\Users\TR\source\repos\CSharpCourse\CSharp7_Iterface\bin\Debug\CSharp7_Iterface.exe.config
+C:\Users\TR\source\repos\CSharpCourse\CSharp7_Iterface\bin\Debug\CSharp7_Iterface.exe
+C:\Users\TR\source\repos\CSharpCourse\CSharp7_Iterface\bin\Debug\CSharp7_Iterface.pdb
+C:\Users\TR\source\repos\CSharpCourse\CSharp7_Iterface\obj\Debug\CSharp7_Iterface.csproj.AssemblyReference.cache
+C:\Users\TR\source\repos\CSharpCourse\CSharp7_Iterface\obj\Debug\CSharp7_Iterface.exe
+C:\Users\TR\source\repos\CSharpCourse\CSharp7_Iterface\obj\Debug\CSharp7_Iterface.pdb

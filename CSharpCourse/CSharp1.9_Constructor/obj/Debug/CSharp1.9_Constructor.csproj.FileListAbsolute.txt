@@ -1,0 +1,7 @@
+C:\Users\TR\source\repos\CSharpCourse\CSharp9_Constructor\bin\Debug\CSharp9_Constructor.exe.config
+C:\Users\TR\source\repos\CSharpCourse\CSharp9_Constructor\bin\Debug\CSharp9_Constructor.exe
+C:\Users\TR\source\repos\CSharpCourse\CSharp9_Constructor\bin\Debug\CSharp9_Constructor.pdb
+C:\Users\TR\source\repos\CSharpCourse\CSharp9_Constructor\obj\Debug\CSharp1.9_Constructor.csproj.AssemblyReference.cache
+C:\Users\TR\source\repos\CSharpCourse\CSharp9_Constructor\obj\Debug\CSharp1.9_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\TR\source\repos\CSharpCourse\CSharp9_Constructor\obj\Debug\CSharp9_Constructor.exe
+C:\Users\TR\source\repos\CSharpCourse\CSharp9_Constructor\obj\Debug\CSharp9_Constructor.pdb

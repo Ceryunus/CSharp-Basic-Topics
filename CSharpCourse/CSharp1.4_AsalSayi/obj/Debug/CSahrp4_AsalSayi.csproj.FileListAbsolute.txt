@@ -1,0 +1,6 @@
+C:\Users\TR\source\repos\CSharpCourse\AsalSayi\bin\Debug\AsalSayi.exe.config
+C:\Users\TR\source\repos\CSharpCourse\AsalSayi\bin\Debug\AsalSayi.exe
+C:\Users\TR\source\repos\CSharpCourse\AsalSayi\bin\Debug\AsalSayi.pdb
+C:\Users\TR\source\repos\CSharpCourse\AsalSayi\obj\Debug\CSahrp4_AsalSayi.csproj.CoreCompileInputs.cache
+C:\Users\TR\source\repos\CSharpCourse\AsalSayi\obj\Debug\AsalSayi.exe
+C:\Users\TR\source\repos\CSharpCourse\AsalSayi\obj\Debug\AsalSayi.pdb

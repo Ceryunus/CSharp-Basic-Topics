@@ -1,0 +1,7 @@
+C:\Users\TR\source\repos\CSharpCourse\CSharp2.4_GenericMethods\bin\Debug\CSharp2.4_GenericMethods.exe.config
+C:\Users\TR\source\repos\CSharpCourse\CSharp2.4_GenericMethods\bin\Debug\CSharp2.4_GenericMethods.exe
+C:\Users\TR\source\repos\CSharpCourse\CSharp2.4_GenericMethods\bin\Debug\CSharp2.4_GenericMethods.pdb
+C:\Users\TR\source\repos\CSharpCourse\CSharp2.4_GenericMethods\obj\Debug\CSharp2.4_GenericMethods.csproj.AssemblyReference.cache
+C:\Users\TR\source\repos\CSharpCourse\CSharp2.4_GenericMethods\obj\Debug\CSharp2.4_GenericMethods.csproj.CoreCompileInputs.cache
+C:\Users\TR\source\repos\CSharpCourse\CSharp2.4_GenericMethods\obj\Debug\CSharp2.4_GenericMethods.exe
+C:\Users\TR\source\repos\CSharpCourse\CSharp2.4_GenericMethods\obj\Debug\CSharp2.4_GenericMethods.pdb

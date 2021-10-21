@@ -1,0 +1,7 @@
+C:\Users\TR\source\repos\CSharpCourse\CSharp2.6_Reflection\bin\Debug\CSharp2.6_Reflection.exe.config
+C:\Users\TR\source\repos\CSharpCourse\CSharp2.6_Reflection\bin\Debug\CSharp2.6_Reflection.exe
+C:\Users\TR\source\repos\CSharpCourse\CSharp2.6_Reflection\bin\Debug\CSharp2.6_Reflection.pdb
+C:\Users\TR\source\repos\CSharpCourse\CSharp2.6_Reflection\obj\Debug\CSharp2.6_Reflection.csproj.AssemblyReference.cache
+C:\Users\TR\source\repos\CSharpCourse\CSharp2.6_Reflection\obj\Debug\CSharp2.6_Reflection.csproj.CoreCompileInputs.cache
+C:\Users\TR\source\repos\CSharpCourse\CSharp2.6_Reflection\obj\Debug\CSharp2.6_Reflection.exe
+C:\Users\TR\source\repos\CSharpCourse\CSharp2.6_Reflection\obj\Debug\CSharp2.6_Reflection.pdb

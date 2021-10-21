@@ -1,0 +1,7 @@
+C:\Users\TR\source\repos\CSharpCourse\CSharp5_,Class\bin\Debug\CSharp5_,Class.exe.config
+C:\Users\TR\source\repos\CSharpCourse\CSharp5_,Class\bin\Debug\CSharp5_,Class.exe
+C:\Users\TR\source\repos\CSharpCourse\CSharp5_,Class\bin\Debug\CSharp5_,Class.pdb
+C:\Users\TR\source\repos\CSharpCourse\CSharp5_,Class\obj\Debug\CSharp5_,Class.csproj.AssemblyReference.cache
+C:\Users\TR\source\repos\CSharpCourse\CSharp5_,Class\obj\Debug\CSharp5_,Class.csproj.CoreCompileInputs.cache
+C:\Users\TR\source\repos\CSharpCourse\CSharp5_,Class\obj\Debug\CSharp5_,Class.exe
+C:\Users\TR\source\repos\CSharpCourse\CSharp5_,Class\obj\Debug\CSharp5_,Class.pdb

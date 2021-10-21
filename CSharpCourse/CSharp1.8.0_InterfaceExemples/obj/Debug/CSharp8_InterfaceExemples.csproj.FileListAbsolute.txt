@@ -1,0 +1,7 @@
+C:\Users\TR\source\repos\CSharpCourse\CSharp8_InterfaceExemples\bin\Debug\CSharp8_InterfaceExemples.exe.config
+C:\Users\TR\source\repos\CSharpCourse\CSharp8_InterfaceExemples\bin\Debug\CSharp8_InterfaceExemples.exe
+C:\Users\TR\source\repos\CSharpCourse\CSharp8_InterfaceExemples\bin\Debug\CSharp8_InterfaceExemples.pdb
+C:\Users\TR\source\repos\CSharpCourse\CSharp8_InterfaceExemples\obj\Debug\CSharp8_InterfaceExemples.csproj.AssemblyReference.cache
+C:\Users\TR\source\repos\CSharpCourse\CSharp8_InterfaceExemples\obj\Debug\CSharp8_InterfaceExemples.csproj.CoreCompileInputs.cache
+C:\Users\TR\source\repos\CSharpCourse\CSharp8_InterfaceExemples\obj\Debug\CSharp8_InterfaceExemples.exe
+C:\Users\TR\source\repos\CSharpCourse\CSharp8_InterfaceExemples\obj\Debug\CSharp8_InterfaceExemples.pdb
